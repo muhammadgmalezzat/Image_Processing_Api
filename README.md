@@ -61,7 +61,7 @@
 
 ### valid example
 
-> http://localhost:3000/api/images?filename=fjord&width=200&height=200
+> http://localhost:3000/api?name=encenadaport&height=1000&width=1000
 
 
 
